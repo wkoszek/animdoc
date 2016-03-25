@@ -1,0 +1,4 @@
+digraph {
+	Accelerator -> Headset;
+	{ rank=same; Accelerator Headset }
+}

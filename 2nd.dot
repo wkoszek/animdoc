@@ -1,0 +1,4 @@
+digraph {
+	acc -> headset;
+	{ rank=same; headset acc }
+}
